@@ -14,3 +14,4 @@ participants_second_group = "Петров|Сидоров|Смирнов"
 common_participants_list = find_common_participants(participants_first_group, participants_second_group, delimiter='|')
 
 print("Общие участники:", common_participants_list)
+
